@@ -45,6 +45,8 @@ The project is deployed on Render and can be accessed [here](https://cbt-g03p.on
 
 ## Contributors
 - [Hariprakassh P](https://github.com/hariprakassh)
+- [Jagadeesh R](https://github.com/Jagadesh-R)
+- [DhanushRaja](https://github.com/hariprakassh)
 
 
 ---
